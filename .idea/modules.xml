@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/4 Algorithms .iml" filepath="$PROJECT_DIR$/.idea/4 Algorithms .iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactorialWorking-master/FactorialWorking-master.iml" filepath="$PROJECT_DIR$/FactorialWorking-master/FactorialWorking-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TempConversion-master/TempConversion-master.iml" filepath="$PROJECT_DIR$/TempConversion-master/TempConversion-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insertionSort-master/insertionSort-master.iml" filepath="$PROJECT_DIR$/insertionSort-master/insertionSort-master.iml" />
+    </modules>
+  </component>
+</project>
